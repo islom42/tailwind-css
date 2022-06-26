@@ -1,4 +1,5 @@
 ## Tailwind css
 
-### Section-1 Introduction
+### Section-2 Fundamentals - 1
+
 
